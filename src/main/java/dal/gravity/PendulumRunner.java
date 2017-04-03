@@ -10,8 +10,8 @@ public class PendulumRunner
 {
 	
 	public static final double GRAVITY = 9.80665;
-
-    public static void main (String [] args) {
+    public static void main (String [] args) 
+    {
 	NumberFormat nf = NumberFormat.getInstance ();
 	nf.setMaximumFractionDigits (3);
 
